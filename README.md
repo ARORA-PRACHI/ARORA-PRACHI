@@ -6,7 +6,6 @@
 🌱 Currently mastering the MERN stack  
 🤝 Open to collaborating on Web Development, AI, and Machine Learning projects  
 💬 Ask me anything, I'm happy to help!  
-📖 Reach me at: prachi659.be22@chitkara.edu.in
 📖 Reach me at: [prachi659.be22@chitkara.edu.in](mailto:prachi659.be22@chitkara.edu.in)
 
 ---
