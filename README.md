@@ -6,7 +6,7 @@
 - 🔭 Currently working on enhancing **GroChop**: [ARORA-PRACHI/GROCHOP](https://github.com/ARORA-PRACHI/GROCHOP)
 - 🌱 Exploring advanced data visualization techniques and backend optimizations
 - 💬 Ask me about React, Node.js, Python, Java, CPP, AIML or data analytics
-- 📫 Reach me at: [prachi.arora@example.com](mailto:prachiarora0926@gmail.com)
+- 📫 Reach me at: [prachiarora0926@gmail.com](mailto:prachiarora0926@gmail.com)
 - ⚡ Fun fact: I love turning complex problems into elegant solutions!
 
 ### Connect with me here
@@ -21,6 +21,9 @@
 
 <a href="https://leetcode.com/u/Prachi_arora_/">
 <img align="left" alt="Prachi Arora | Leetcode" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" />
+</a>
+<a href="mailto:prachiarora0926@gmail.com">
+  <img align="left" alt="Prachi Arora | Gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail--v1.png" />
 </a>
 
 <br><br>
