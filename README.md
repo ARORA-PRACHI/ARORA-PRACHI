@@ -5,13 +5,13 @@
 
 - 🔭 Currently working on enhancing **GroChop**: [ARORA-PRACHI/GROCHOP](https://github.com/ARORA-PRACHI/GROCHOP)
 - 🌱 Exploring advanced data visualization techniques and backend optimizations
-- 💬 Ask me about React, Node.js, Python, or data analytics
+- 💬 Ask me about React, Node.js, Python, Java, CPP, AIML or data analytics
 - 📫 Reach me at: [prachi.arora@example.com](mailto:prachiarora0926@gmail.com)
 - ⚡ Fun fact: I love turning complex problems into elegant solutions!
 
 ### Connect with me here
 
-<a href="www.linkedin.com/in/prachi-arora-479947254">
+<a href="https://www.linkedin.com/in/prachi-arora-479947254/">
 <img align="left" alt="Prachi Arora | Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 
@@ -24,6 +24,7 @@
 </a>
 
 <br><br>
+
 ## ✨ Featured Projects
 
 ### 🔹 SpendEase 💰
@@ -64,11 +65,21 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<br>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="(https://github-profile-trophy.vercel.app/?username=ARORA-PRACHI&theme=radical)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ARORA-PRACHI&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
-<br>
+---
+
+## 🔥 My GitHub Stats
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ARORA-PRACHI&count_private=true&show_icons=true&theme=radical" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=ARORA-PRACHI&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARORA-PRACHI&layout=compact&theme=radical" />
+</p>
