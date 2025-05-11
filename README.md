@@ -1,6 +1,7 @@
-Hi there! 👋
-
-I'm Prachi Arora, a passionate Software Developer, Full Stack Developer, and Data Analyst based in Chandigarh, India. I thrive on transforming ideas into reality through code and data. My journey in tech has been fueled by curiosity and a relentless drive to learn and innovate.
+<h1 align="center">Hello Everyone !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Prachi Arora</h1>
+<h3 align="center">A passionate Software Developer, Full Stack Developer, and Data Analyst</h3>
+<h3 align="center"> I thrive on transforming ideas into reality through code and data. My journey in tech has been fueled by curiosity and a relentless drive to learn and innovate.</h3>
+<br>
 
 - 🔭 Currently working on enhancing **GroChop**: [ARORA-PRACHI/GROCHOP](https://github.com/ARORA-PRACHI/GROCHOP)
 - 🌱 Exploring advanced data visualization techniques and backend optimizations
@@ -8,8 +9,40 @@ I'm Prachi Arora, a passionate Software Developer, Full Stack Developer, and Dat
 - 📫 Reach me at: [prachi.arora@example.com](mailto:prachiarora0926@gmail.com)
 - ⚡ Fun fact: I love turning complex problems into elegant solutions!
 
+### Connect with me here
 
----
+<a href="www.linkedin.com/in/prachi-arora-479947254">
+<img align="left" alt="Prachi Arora | Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+
+<a href="https://www.instagram.com/_prachi0926?">
+<img align="left" alt="prachi0926 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+</a>
+
+<a href="https://leetcode.com/u/Prachi_arora_/">
+<img align="left" alt="Prachi Arora | Leetcode" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" />
+</a>
+
+<br><br>
+## ✨ Featured Projects
+
+### 🔹 SpendEase 💰
+> 💼 A personal expense tracker built with **ReactJS**, **NodeJS**, and **Express**.  
+> 🤖 Integrated with a **Gemini-powered chatbot** for financial tips and insights.
+
+### 🔹 Diabetes Prediction 🧬
+> 🧠 Used **Python** and **Machine Learning** to predict diabetes risk from health data.  
+> 📊 Visualized insights with **Matplotlib** and **Seaborn**. Achieved high accuracy using ensemble models.
+
+### 🔹 Sales Prediction 📈
+> 🚀 Leveraged **Python** and **AI/ML algorithms** to predict sales with an R² score of **81.6%**.  
+> 🔍 Performed **EDA** and strategy optimization to guide inventory decisions.
+
+### 🔹 Blinkit Data Analysis 🛒
+> 📊 Used **Excel**, **Power BI**, and **ML** to analyze customer behavior and sales patterns.  
+> 📌 Built interactive **Power BI Dashboards** to visualize customer retention and insights.
+
+<br>
 
 ## 🚀 Tech Stack
 
@@ -31,46 +64,11 @@ I'm Prachi Arora, a passionate Software Developer, Full Stack Developer, and Dat
 
 ---
 
-📊 Github Stats
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARORA-PRACHI&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARORA-PRACHI&layout=compact&theme=radical)
-
----
-
-## ✨ Featured Projects
-
-### 🔹 SpendEase 💰
-> 💼 A personal expense tracker built with **ReactJS**, **NodeJS**, and **Express**.  
-> 🤖 Integrated with a **Gemini-powered chatbot** for financial tips and insights.
-
-### 🔹 Diabetes Prediction 🧬
-> 🧠 Used **Python** and **Machine Learning** to predict diabetes risk from health data.  
-> 📊 Visualized insights with **Matplotlib** and **Seaborn**. Achieved high accuracy using ensemble models.
-
-### 🔹 Sales Prediction 📈
-> 🚀 Leveraged **Python** and **AI/ML algorithms** to predict sales with an R² score of **81.6%**.  
-> 🔍 Performed **EDA** and strategy optimization to guide inventory decisions.
-
-### 🔹 Blinkit Data Analysis 🛒
-> 📊 Used **Excel**, **Power BI**, and **ML** to analyze customer behavior and sales patterns.  
-> 📌 Built interactive **Power BI Dashboards** to visualize customer retention and insights.
-
----
-
-📊 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARORA-PRACHI&theme=radical)
-
----
-
-## 🔗 Connect With Me
+### 🏆 GitHub Trophies
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/YOUR-DISCORD-ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-ID"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <img src="(https://github-profile-trophy.vercel.app/?username=ARORA-PRACHI&theme=radical)" />
 </p>
 
----
-
-> 📌 *“Striving to build impactful solutions and grow as a developer every single day.”*
+<br>
